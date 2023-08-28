@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 //added to text the commits
+// new commit
 
 function App() {
   return (
